@@ -1,0 +1,16 @@
+参考资料：
+网站：
+1.http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+2.http://scikit-learn.org/stable/auto_examples/model_selection/grid_search_text_feature_extraction.html#sphx-glr-auto-examples-model-selection-grid-search-text-feature-extraction-py
+
+
+书籍：N/A
+
+论坛：
+1.http://discussions.youdaxue.com/c/dand-p5
+
+博客文章：
+1.https://www.jianshu.com/p/798c5de306e6
+2.http://blog.csdn.net/neleuska/article/details/73193096
+
+GitHub代码库：N/A
